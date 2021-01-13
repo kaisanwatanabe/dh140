@@ -18,3 +18,5 @@ making sure to hand sort most of the data and actually go so far as to reach out
 This dataset also provides links to related studies of depression on using social media, so it is a good reference point to other studies. 
 Understanding this data will also help me tailor my research towards causes of depression that most affect people in young age demographics, 
 which I can add as more spatial data.
+
+https://www.sciencedirect.com/science/article/pii/S0143622814002537
